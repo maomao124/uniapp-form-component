@@ -1,0 +1,1 @@
+<view><picker mode="date" start="2023-06-03" end="2024-07-22" data-event-opts="{{[['change',[['change',['$event']]]],['cancel',[['cancel']]]]}}" bindchange="__e" bindcancel="__e">点击日期选择器</picker></view>

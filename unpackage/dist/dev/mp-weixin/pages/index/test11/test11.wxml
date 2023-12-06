@@ -1,0 +1,1 @@
+<view><picker mode="region" data-event-opts="{{[['change',[['change',['$event']]]],['cancel',[['cancel']]]]}}" bindchange="__e" bindcancel="__e">点击省市区选择器</picker></view>

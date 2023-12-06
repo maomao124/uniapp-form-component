@@ -1,0 +1,1 @@
+<view><picker mode="time" start="12:33" end="18:44" data-event-opts="{{[['change',[['change',['$event']]]],['cancel',[['cancel']]]]}}" bindchange="__e" bindcancel="__e">点击时间选择器</picker></view>

@@ -16,7 +16,7 @@
 		},
 		onLoad() {
 			uni.navigateTo({
-				url:'/pages/index/test3/test3'
+				url:'/pages/index/test11/test11'
 			})
 		},
 		methods: {

@@ -1,0 +1,1 @@
+<view><picker mode="selector" range="{{data}}" data-event-opts="{{[['change',[['change',['$event']]]],['cancel',[['cancel']]]]}}" bindchange="__e" bindcancel="__e">点击普通选择器</picker></view>
